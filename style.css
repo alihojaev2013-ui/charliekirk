@@ -1,0 +1,38 @@
+caption{
+background-color: aqua;
+ width: 815px;
+ text-align: center;
+ border: 2px solid black;
+ border-collapse: collapse;
+}
+th{
+    background-color: yellow;
+     width: 200px;
+     text-align: center;
+     border: 2px solid black;
+     border-collapse: collapse;
+}
+.td{
+    background-color: red;
+    color: white;
+     width: 200px;
+     text-align: center;
+}
+.money{
+    background-color: green;
+    color: white;
+     width: 200px;
+     text-align: center;
+}
+.number{
+    background-color: white;
+    width: 200px;
+    text-align: center;
+}
+td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+table{
+    border-collapse: collapse;
+}
